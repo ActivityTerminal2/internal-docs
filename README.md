@@ -20,6 +20,7 @@
 - [Back story (draft)](the-final-amendment/back-story.txt)
 - [Marcus Thorne / Grave](the-final-amendment/characters/marcus-thorne.md)
 - [Silus Vane](the-final-amendment/characters/silus-vane.md)
+- [Silas Croft / Warden](the-final-amendment/characters/silas-croft.md)
 - [Architecture](the-final-amendment/docs/ARCHITECTURE.md)
 - [Arenas](the-final-amendment/docs/ARENAS.md)
 - [Build (detailed)](the-final-amendment/docs/BUILD.md)

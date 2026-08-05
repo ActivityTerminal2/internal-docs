@@ -7,5 +7,6 @@ Public/player-facing material stays in the game repo (`README.md`, `BUILDING.md`
 - [Modules & chapter promote](MODULES.md)
 - [Characters — Marcus Thorne / Grave](characters/marcus-thorne.md)
 - [Characters — Silus Vane](characters/silus-vane.md)
+- [Characters — Silas Croft / Warden](characters/silas-croft.md)
 
 Canonical remote: https://github.com/ActivityTerminal2/internal-docs
