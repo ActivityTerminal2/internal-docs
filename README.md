@@ -14,9 +14,11 @@
 
 ## The Final Amendment index
 
+- [Modules & chapter promote](the-final-amendment/MODULES.md)
 - [ROADMAP](the-final-amendment/ROADMAP.md)
 - [IDEAS](the-final-amendment/IDEAS.md)
 - [Back story (draft)](the-final-amendment/back-story.txt)
+- [Marcus Vance / Glitch](the-final-amendment/characters/marcus-vance.md)
 - [Architecture](the-final-amendment/docs/ARCHITECTURE.md)
 - [Arenas](the-final-amendment/docs/ARENAS.md)
 - [Build (detailed)](the-final-amendment/docs/BUILD.md)
