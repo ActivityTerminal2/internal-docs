@@ -1,0 +1,95 @@
+i am makeing a twisted metal black clone game. 
+im here to just talk about ideas. i dont want any images.
+here is a link about twisted metal black
+https://en.wikipedia.org/wiki/Twisted_Metal:_Black
+the game is called The Final Amendment.
+the main story is after the cuban missile crisis all goverments fell. a new goverment come to be for the whole world. its very corrupt. its lead by a man named Silus Vane. each driver of each car has there own back story.
+
+. a man that talks in a preacher like way beliving his ways is best. he looked in to Roman history and colosseum and saw how blood and violence took peoples minds off the corruption. so he make the updated romanian games. called "to be done later" here the people bet on the contests. the contests prisoners people that did wrong things to get locked up or spoock out agrest the goverment. some of them even framed to get locked up in there.
+
+in the game is you versions everyone else. fight to win. the winner gets a request from Silus Vane. each driver of each car has there own back story.
+
+Creepsicle: 
+driver: Grave
+real name: Marcus Thorne
+backstory:
+Marcus Thorne wasn't just a frozen goods transport owner—he was a family man who built his business from nothing after his own father abandoned him as a child. He met his wife Sarah during a delivery to her family's bakery, and they quickly built a life together with their two children, Emma (8) and Michael (6). Marcus was known for his reliability and kind nature, often giving discounts to struggling families.
+
+On that fateful August 16, 1997, Marcus had promised his children a beach day as a reward for their good grades. As they traveled down Interstate 445, a heavily modified vehicle appeared in their lane. Marcus tried to swerve but the refrigerated truck's weight made it impossible to avoid collision. He watched his family die in twisted metal before his own life faded.
+
+When he awoke in the hospital weeks later, Marcus Thorne was gone. The doctors noted his complete emotional detachment and fixation on revenge. He took the name "Grave," seeing himself as already dead, with nothing left to lose. He spent months tracking down information about the interstate massacre, learning about Glitch and his subsequent imprisonment in Silus Vane's games. Grave intentionally committed increasingly violent crimes until he too was imprisoned, knowing it was the only way to get close to his family's killer.
+
+The refrigerated truck he drives in the games isn't just a vehicle—it's his tomb, the metal coffin that carries the ghosts of his family. The flamethrower represents the hellfire that consumed his life, while the reinforced armor symbolizes the emotional wall he's built around himself.
+car:
+A heavily modified 1996 Thorson Industries refrigerated truck, originally used for transporting frozen medical supplies. The body is reinforced with steel plates bolted over the original panels, creating a patchwork armor effect. The truck's white paint has faded to a grimy gray, with rust streaks resembling tear tracks running from the headlights. The windshield is protected by a custom-built steel cage with narrow vision slits. The truck's refrigeration unit has been converted to a fuel system for the flamethrower, with exposed pipes running along the roof like veins.
+Heavy assault/tank. Best used for breaking through enemy defenses and sustained close-range combat. The flamethrower is particularly effective at disabling vehicles and forcing opponents into vulnerable positions.
+
+Riveter
+driver: Warden
+real name: Silas Croft
+backstory:
+Silas Croft was a brilliant architect who initially believed in Silus Vane's vision of a unified world government. As a child, he was fascinated by Roman engineering and gladiatorial games, seeing them as a way to channel humanity's violent tendencies into controlled spectacle. When Vane announced his plan to create modern arenas, Silas saw it as an opportunity to perfect what the Romans had started.
+
+His first arena design was praised for its innovative death traps and strategic weapon placements. But as he built more arenas, Silas grew increasingly disturbed by Vane's cruelty and the random nature of who was imprisoned. He began secretly designing flaws into his blueprints—hidden passages that could allow prisoners to escape, weak points in the structure that might collapse during particularly brutal matches.
+
+Silas's downfall came when he designed an arena with a special viewing area for Vane's fourth lieutenant, who managed the betting operations. Unknown to Silas, a rival of the lieutenant used this opportunity to frame Silas for match-fixing. Evidence was planted suggesting Silas had designed the arena to favor certain contestants who were part of a betting ring.
+
+When confronted, Silas couldn't explain the real flaws he had built into the design without revealing his sympathy for the prisoners. Vane, seeing this as betrayal, ordered Silas to be imprisoned and forced to participate in the games he created. The irony wasn't lost on Silas as he entered his own arena, knowing every trap, every weakness, every possible advantage.
+car:
+A custom-built 1998 Vane Industries tactical SUV, originally designed for Silas Croft's personal use while overseeing arena construction. The vehicle features angular armor plating with a distinctive metallic blue finish that can change opacity based on power levels. The most prominent feature is the exposed electromagnetic generator housing that runs along the vehicle's spine, pulsing with blue energy when active. The vehicle sits on six heavy-duty tires with run-flat capability.
+Support/control. Best used for disrupting enemy formations and providing tactical advantages to teammates. The EMP shockwave is particularly effective at breaking up coordinated attacks and creating opportunities for allies.
+
+Rustbucket
+driver: Jinx
+real name: Anya Petrova
+backstory:
+Anya Petrova was born into the resistance movement—her parents were among the first to oppose Vane's rise to power. She learned to drive almost before she could walk, navigating the underground tunnels and backroads that connected resistance cells. By 16, she was the best courier in the movement, earning the nickname "Jinx" because government operations to capture her consistently failed through what seemed like bad luck on their part (but was actually her exceptional driving skills and intuition).
+
+Wesley Weet was her mentor and the closest thing she had to family after her parents were captured and executed. He taught her everything about evasion tactics and survival. What Anya didn't know was that Wesley had been secretly feeding information to the government in exchange for his family's safety.
+
+During a particularly dangerous mission to transport resistance leaders, Wesley sold Anya out. The ambush was brutal—Anya was captured after a high-speed chase that ended when Wesley remotely disabled her vehicle's ignition system. In prison, Anya learned of Wesley's betrayal from another resistance member who had been captured earlier.
+
+The psychological torture in prison focused on breaking Anya's spirit—guards constantly reminded her that her "jinx" had finally run out, that Wesley had outsmarted her. But instead of breaking, this forged Anya into something harder and more dangerous. She no longer fights for the resistance's ideals—she fights purely for personal vengeance.
+
+Her car's speed and homing missiles represent her singular focus: closing in on her target with relentless precision. The twin pump cooler for her overdrive isn't just a technical feature—it's symbolic of her cold fury that keeps her going when lesser drivers would burn out.
+car:
+A heavily modified 1995 Nagasaki drift racer with a custom-built carbon fiber body. The vehicle's most distinctive feature is its matte black finish with subtle holographic paint that creates a shimmering effect when moving, making it difficult to track visually. The car sits extremely low to the ground with a wide stance and massive rear tires. The twin cooling systems are visible as large intake scoops on either side of the cockpit, glowing blue when the overdrive is active.
+Hit-and-run/assassin. Best used for quick strikes and escaping before opponents can retaliate. The homing missiles are particularly effective against slower, heavier vehicles that struggle to evade.
+
+Tick
+driver: Glitch
+real name: Lucis Vance
+backstory:
+Lucis Vance had always struggled with violent impulses, even as a child. He found solace in the structured, methodical work of being a tow truck operator—helping stranded motorists gave him a sense of purpose and control. For years, he managed his darker thoughts through therapy and medication, building a quiet life that appeared normal to everyone around him.
+
+The week of August 12, 1997, something changed. A new medication prescribed by his doctor had unexpected side effects, amplifying his aggression while removing his inhibitions. "Glitch" emerged gradually—at first as intrusive thoughts, then as whispers in his mind, and finally as a distinct personality that Lucis could no longer suppress.
+
+On August 16, 1997, Glitch took complete control. Lucis awoke hours later with no memory of the massacre, only the aftermath—police sirens, wreckage, and blood. When authorities arrested him, Glitch spoke through Lucis's mouth, laughing and boasting about the carnage.
+
+In prison, Glitch flourished. The violent environment was exactly what he craved. He quickly became a feared enforcer among the inmates. When Vane announced the games, Glitch was one of the first volunteers. The crane truck he drives was specially modified to his specifications—the magnet represents how he draws victims to him, while the electrical overload special mirrors how he overtook Lucis's mind.
+car:
+A custom-built 1994 Krane industrial crane truck, heavily modified for combat. The vehicle's most prominent feature is the 30-foot telescoping crane arm with a powerful electromagnet replacing the standard hook. The truck's chassis is reinforced with additional plating around the cab and magnet housing. The crane arm is covered in scratches and dents from previous "collections," with some bearing what appear to be handprints from previous victims. The magnet itself glows with an eerie purple light when activated.
+isruption/trapper. Best used for capturing key targets and using them against their own team. The electrical overload is particularly devastating when used on vehicles with powerful special weapons.
+
+
+
+Po
+driver: Lawman
+real name: Dale Everett
+backstory: 
+Dale Everett was a mediocre actor with one gift: total commitment. When he landed the lead role of Sergeant Frank "Iron Frank" Marlowe on Midnight Watch—a government-produced cop drama designed to make citizens love Vane's enforcement divisions—it was the first time in his life anyone had respected him. Kids saluted him on the street. Strangers thanked him for his service. Dale had never been anybody. Iron Frank was somebody.
+
+The problem started small. Dale began correcting the writers on "procedure." He wore the costume badge home. He pulled over a speeding motorist on his way to set—the studio quietly paid the man off. Directors noticed Dale never broke character anymore, even at lunch, even at the wrap parties. They didn't care. Authenticity was ratings.
+
+Then Vane's arena games launched, and Midnight Watch was crushed in the ratings by real blood. The show was canceled mid-season—Iron Frank's last episode ended on an unresolved cliffhanger, his partner's killer still at large.
+
+Dale never got closure, so his mind refused to accept the cancellation. In his fractured logic, the show wasn't over—the budget was cut. A real cop doesn't quit because the department is broke. He salvaged a decommissioned cruiser from a studio junkyard, hand-painted POLICE on the doors, and—unable to find a working lightbar—lashed the mirror ball from the studio's wrap party to the roof rack. Under streetlights it scattered spinning flecks of white that Dale saw as red and blue.
+
+Three weeks later, "Sergeant Marlowe" responded to a gang dispute in the Fourth District. Eighteen gang members died. So did eleven civilians caught in the crossfire—Dale's mind edited them out entirely, or recast them as "perps." When the real enforcers finally took him down, he thanked them for the backup and asked who was writing the report.
+
+Vane's people recognized a marketing goldmine. In the arena, Lawman doesn't think he's a prisoner. He believes he's undercover, working the biggest case of his career: taking down the arena's criminals one by one, from the inside. Every kill is an arrest that "resisted." Every match is an episode. And somewhere in his broken head, he's certain that when the case is closed, the network will bring the show back.
+
+The other drivers find him unnerving for one reason above all: he's polite. He reads you your rights over the loudspeaker while the miniguns spin up.
+
+car:
+A salvaged 1996 Crown Victoria pursuit vehicle pulled from a studio prop junkyard, its factory paint almost entirely eaten away to rust and bare metal. The black-and-white police livery is hand-painted—thick, dripping brushstrokes with POLICE smeared across the doors in Dale's own frantic lettering. The windshield bears an untreated spiderweb crack from the Fourth District shootout that Dale refuses to repair, calling it "evidence." Twin rotary miniguns are bolted to a crude armored bracket where the push bumper used to be, fed by ammo belts running through the hood. In place of a lightbar, a scuffed mirror ball sits lashed to a rusted roof rack with rope and salvaged pipe—when it spins under the arena floodlights, it throws strobing reflections in every direction. A functional PA loudspeaker is wired to the grille, through which Lawman issues warnings, Miranda rights, and calls for backup that never comes.
