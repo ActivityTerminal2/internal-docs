@@ -69,7 +69,8 @@ Adds `Assets/Content/Public` + `Assets/Content/Internal` submodules and merges i
 
 | Doc | Subject |
 |-----|---------|
-| [characters/marcus-vance.md](characters/marcus-vance.md) | Marcus Vance / Glitch (Tick) |
+| [characters/marcus-thorne.md](characters/marcus-thorne.md) | Marcus Thorne / Grave (Creepsicle) |
+| [characters/silus-vane.md](characters/silus-vane.md) | Silus Vane (world leader / games host) |
 | [back-story.txt](back-story.txt) | Original lore dump |
 
 ## Related host files
