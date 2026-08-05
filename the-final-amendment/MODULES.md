@@ -72,6 +72,7 @@ Adds `Assets/Content/Public` + `Assets/Content/Internal` submodules and merges i
 | [characters/marcus-thorne.md](characters/marcus-thorne.md) | Marcus Thorne / Grave (Creepsicle) |
 | [characters/anya-petrova.md](characters/anya-petrova.md) | Anya Petrova / Jinx (Rustbucket) |
 | [characters/lucis-vance.md](characters/lucis-vance.md) | Lucis Vance / Glitch (Tick) |
+| [characters/dale-everett.md](characters/dale-everett.md) | Dale Everett / Lawman (Crown Vic) |
 | [characters/silus-vane.md](characters/silus-vane.md) | Silus Vane (world leader / games host) |
 | [characters/silas-croft.md](characters/silas-croft.md) | Silas Croft / Warden (Riveter) |
 | [back-story.txt](back-story.txt) | Original lore dump |
