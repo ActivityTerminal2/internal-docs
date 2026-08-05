@@ -70,6 +70,7 @@ Adds `Assets/Content/Public` + `Assets/Content/Internal` submodules and merges i
 | Doc | Subject |
 |-----|---------|
 | [characters/marcus-thorne.md](characters/marcus-thorne.md) | Marcus Thorne / Grave (Creepsicle) |
+| [characters/anya-petrova.md](characters/anya-petrova.md) | Anya Petrova / Jinx (Rustbucket) |
 | [characters/silus-vane.md](characters/silus-vane.md) | Silus Vane (world leader / games host) |
 | [characters/silas-croft.md](characters/silas-croft.md) | Silas Croft / Warden (Riveter) |
 | [back-story.txt](back-story.txt) | Original lore dump |
