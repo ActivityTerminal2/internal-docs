@@ -20,6 +20,7 @@
 - [Back story (draft)](the-final-amendment/back-story.txt)
 - [Marcus Thorne / Grave](the-final-amendment/characters/marcus-thorne.md)
 - [Anya Petrova / Jinx](the-final-amendment/characters/anya-petrova.md)
+- [Lucis Vance / Glitch](the-final-amendment/characters/lucis-vance.md)
 - [Silus Vane](the-final-amendment/characters/silus-vane.md)
 - [Silas Croft / Warden](the-final-amendment/characters/silas-croft.md)
 - [Architecture](the-final-amendment/docs/ARCHITECTURE.md)
