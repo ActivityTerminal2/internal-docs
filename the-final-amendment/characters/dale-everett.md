@@ -70,6 +70,36 @@ The other drivers find him unnerving for one reason above all: **he is polite**.
 
 ---
 
+## Character bio audio (transcript)
+
+Canonical VO for the Lawman / Dale Everett character dossier. Third-person narrator introducing the driver.
+
+> I've been doing this a long time. Killers, I understand. Grudges, greed, madness — you read enough of these files, it all starts to rhyme. But this one... I had to read it twice. Then I poured a drink and read it a third time.
+>
+> There's a cop in the arena. Twenty-year veteran, decorated, by-the-book. Iron discipline, iron nerve — they call him Iron Frank. Only problem is, he doesn't exist. Never did.
+>
+> There was a TV show. That's it. That's the whole origin. A propaganda cop drama, and a hungry no-name actor who landed the lead after ten years of playing corpses and waiters. And somewhere between the table read and the series finale that never aired, the actor walked off set and the character kept going.
+>
+> His real name's in the file — Dale something — but honestly, it barely matters anymore. Dale's gone. What's driving that car is a fictional man wearing a real body.
+>
+> People ask how it happens. How does a grown man lose himself inside a role? Easy. You just have to hate who you were more than you fear going insane. Dale spent his whole life invisible. Then one day he puts on a fake badge and the world starts treating him like a hero. Which life would you pick?
+>
+> The studio saw the warning signs and looked the other way — the man was a ratings machine, and crazy is cheap when it's profitable. Then Vane's games came along and made scripted violence obsolete overnight. The show got cancelled. And that's the moment the last thread snapped. Because you can fire an actor. You can't cancel a police sergeant. In his head, there were budget cuts. In his head, he's still on duty. Always will be.
+>
+> What he did next is in the incident reports, and I'll spare you most of it. He built himself a patrol car out of junkyard scrap — hand-lettered the door, rigged a disco ball where the lights should go, I swear on my mother that's in the photos. Then he found himself some criminals. By the time it was over, twenty-nine people were dead, and a good chunk of them hadn't done anything except stand too close. Not that he'd ever know. His mind sorts the world into cops and perps, and there's only one cop.
+>
+> They arrested him. He didn't resist — why would he? Far as he was concerned, his relief had just shown up.
+>
+> And here's where I stop being amused and start being disgusted: Vane's people looked at this shattered human being and saw a product. They didn't put him away. They put him in the roster. Told him — or let him tell himself — that he's undercover. The big case. Clean up the arena from the inside, and maybe the network greenlights another season.
+>
+> So now he hunts. And the thing you need to understand — the thing that makes hard men check their mirrors — is his manner. There's no rage in him. No bloodlust. He pulls up alongside you, calm as a Sunday traffic stop, and that loudspeaker crackles: you have the right to remain silent. He means it. He's the only one in the whole arena who thinks he's the good guy... and he's polite about it right up until the barrels start turning.
+>
+> You can't threaten him. You can't reason with him. Reality already tried both.
+>
+> My advice? If you hear sirens out there — sirens you know can't be real — don't waste time wondering. Just drive.
+
+---
+
 ## Open design questions
 
 - [ ] Final vehicle id / display name (back-story label “Po” is incomplete)
