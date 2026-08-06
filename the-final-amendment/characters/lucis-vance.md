@@ -66,6 +66,32 @@ Lucis is still in there, sometimes. Glitch does not care.
 
 ---
 
+## Character bio audio (transcript)
+
+Canonical VO for the Glitch / Lucis Vance character dossier. Third-person narrator introducing the driver.
+
+> Alright, pull up a chair. You wanted to know about this one. This isn't your usual gangbanger or revolutionary. This one's different. This one's a ghost story.
+>
+> The name on the birth certificate is Lucis Vance. By all accounts, before 1997, he was a ghost in his own life. Quiet, meticulous tow truck driver. Kept to himself. Neighbors said he was polite, but distant. The kind of guy you'd forget five minutes after you met him. But our shrinks, they dug into his history. Seems Vance spent his whole life looking over his own shoulder. He had... impulses. Dark ones. He built walls around 'em, see? Therapy, pills, a job with rules so tight you couldn't breathe. Helping stranded motorists, that was his penance. Gave him a sense of control, he thought. A dam holding back a tidal wave of ugly.
+>
+> Then came August '97. The dam broke.
+>
+> New medication. That's what the file says. Some new wonder drug supposed to smooth him out. Only it did the opposite. It sanded down the walls in his head until there was nothing left. The thing he called 'Glitch'... it wasn't new. It was always there, just locked in a cage. The pills didn't just unlock the door; they tore it off the hinges.
+>
+> It started slow. Whispers in his head. Then the whispers started talking back. Then, on the 16th of August, Lucis Vance just... clocked out. Went on permanent vacation. Glitch punched the clock and took over the wheel.
+>
+> The Interstate 445 incident... you've read the reports. But they don't capture the feel of it. The guys on the scene said it wasn't a rage-fueled rampage. It was... efficient. Calculated. When they finally boxed in his truck, he wasn't scared, he wasn't angry. He was just sitting there, smiling. When they pulled him out, he laughed. Said, 'This ain't the end for me. Glitch is here to stay, boys and girls.' Lucis Vance was just along for the ride.
+>
+> In prison, he was a kingfish in a small pond. A predator in a shark tank. He didn't just survive; he thrived. So when Vane's goons came looking for volunteers for his little death show, Glitch was first in line. It wasn't a punishment to him. It was a promotion.
+>
+> That crane truck of his... it's a perfect extension of the man. That magnet on the end? That's how he got his hooks into Vance's brain. Snatched him right up. And that special of his, the one that makes the other car's systems go haywire and shoot everything at once before he tosses it away? That's his origin story, playing out over and over. He's not just killing them. He's showing them how he was born.
+>
+> He knows about the trucker, Grave. He knows their history. He thinks it's funny. He's hoping to draw him in the final round. Doesn't want to just kill him. He wants to make Grave watch while he reenacts the day his family died, just for kicks.
+>
+> There's no getting Lucis back. He's gone. This thing wearing his skin, this Glitch... it's all that's left. And in The Final Amendment, it's found its true calling. It's not a man in a machine. It's a monster that finally found the right skin to wear.
+
+---
+
 ## Open design questions
 
 - [ ] How often Lucis surfaces in story mode (if at all)
