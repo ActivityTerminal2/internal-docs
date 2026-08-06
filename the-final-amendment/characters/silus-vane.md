@@ -77,11 +77,35 @@ Victory is not freedom by default. The champion earns an audience: **one request
 
 ---
 
+## Boot intro speech (audio transcript)
+
+Canonical VO for the Silus Vane boot / title intro. Keep delivery sermon-slow; every paragraph is a beat.
+
+> Listen. Do you hear that? It is the sound of silence. The great, blessed silence that fell after the world screamed itself to death. You remember the noise, do you not? The clamor of a thousand nations, each shouting its own demands, its own truths, its own lies. They called it freedom. I call it chaos. A fever dream of competing voices, all leading to the same inevitable end.
+>
+> The world was a body, riddled with the cancer of choice. Every nation a cell, declaring itself sovereign, refusing to work with the whole. The Cuban Missile Crisis was not a near-miss; it was the diagnosis. The final, fatal proof that humanity, left to its own devices, will always choose the abyss. They held a gun to their own head and argued over who had the right to pull the trigger.
+>
+> So the body died. And from the rot, a new order was born. Not from the noise, but from the silence that followed. I did not create this world. I merely... organized the remains. I gave the single, directionless mass a form. A purpose. A single voice to replace the cacophony. For a society to be pure, it must have one will. One mind. One truth. And that will is Mine.
+>
+> But even in this perfect order, there is imperfection. The disease of the old world lingers in the blood of some. Rebellion. Dissent. The foolish belief that their singular, flawed voice has any merit. These are not people. They are symptoms. Sicknesses that threaten to spread their chaos once more.
+>
+> And what does a wise physician do with a sickness? He does not simply hide it. He does not debate with it. He excises it. He makes a public example of it, so all may see the consequence of impurity.
+>
+> This... is The Final Amendment. The last law. The only law that matters for the lawless. It is not a punishment. It is a service. A sacrament. We take those who would tear down our peace, and we give them one final, glorious purpose. Their rage, their despair, their pathetic little stories of revenge... they are all just fuel. Fuel for the spectacle that reminds the rest of the world what happens when you step out of line.
+>
+> They fight in the arenas, thinking they battle for their own desires. How quaint. They battle for you. They are the sermon preached in steel and fire. Their screams are the hymns that keep you compliant. Their deaths are the foundation upon which our eternal peace is built.
+>
+> There is no escape from this. There is no 'before.' This is the forever. I am the architect of the end, and the end is a structure that will never fall. The Final Amendment is not an event. It is the state of being. The final, unchanging truth of our time.
+>
+> Embrace the silence. It is the sound of salvation.
+
+---
+
 ## Open design questions
 
 - [ ] Official name of the games (placeholder: “to be done later”)
 - [ ] How literally the winner’s request is honored
-- [ ] Silus on-screen vs VO-only (boot intro already uses Silus Vane voice)
+- [ ] Silus on-screen vs VO-only (boot intro already uses Silus Vane voice — transcript above)
 - [ ] Number/names of lieutenants beyond the betting fourth
 
 ---

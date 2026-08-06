@@ -64,6 +64,34 @@ Confronted, Silas could not explain the *real* flaws without admitting sympathy 
 
 ---
 
+## Character bio audio (transcript)
+
+Canonical VO for the Warden / Silas Croft character dossier. Third-person narrator introducing the driver (not Silas speaking as himself).
+
+> And then we have this one. The bureaucrat. The builder. The ultimate irony. The name's Silas Croft. In the game, they call him 'Warden.' And that's exactly what he was.
+>
+> Croft wasn't a street rat like the others. He was an educated man. An architect. A true believer. When Vane rose to power, Croft saw it as a chance to build something lasting, something orderly. He was fascinated by the old world, the Romans. He saw their games not as barbaric, but as a brilliant tool for social control. Give the masses blood and spectacle, and they won't notice the cage you've built around them. He wrote papers on it. Vane's people read them, and they gave him a job.
+>
+> His job was to design the arenas. The first one was a masterpiece of brutal efficiency. Then the second, then the third. Each one more lethal than the last. He was good at it. Too good. He knew his designs would kill thousands. But in his mind, it was a necessary evil. A small sacrifice for the greater stability of Vane's new world order.
+>
+> But the man wasn't a monster. Not at first. He started to see the faces in the crowds, the fear in the prisoners' eyes. It started to eat at him. So he started fighting back in the only way he could. Not with guns, but with a pencil. He'd design flaws into his blueprints. Hidden passages. Weak supports. Traps that could be disabled if you knew where to look. He thought he was being clever, that he was saving lives without anyone knowing.
+>
+> He was a fool.
+>
+> He got arrogant. Started designing an arena with a special VIP box for one of Vane's lieutenants, the guy who managed all the betting for the games. A rival of the lieutenant saw his chance. They planted evidence. Made it look like Croft was designing the arenas to fix the matches, to help his own bets. The evidence was perfect. Too perfect.
+>
+> When Vane's men dragged him in, Croft couldn't defend himself. To explain the real flaws in his design, he'd have to admit he was sympathizing with the prisoners. To Vane, that was the only crime that mattered. Betrayal.
+>
+> Vane didn't just have him thrown in a cell. He made an example of him. He stripped Croft of his name, his purpose, and threw him into the very system he helped create. He became just another number in The Final Amendment. The architect forced to die in his own building. The Warden made into a prisoner.
+>
+> That SUV of his, 'The Architect'... it's a monument to his hubris. It's a high-tech machine, powered by the same kind of energy systems he used to design for the arenas. That EMP shockwave he uses? That's his signature move from his blueprints, a crowd-control system he designed to subdue unruly prisoners. Now he uses it on his fellow inmates.
+>
+> He's not like the others. He's not driven by madness or revenge. He's driven by a cold, precise fury. He knows every arena, every trap, every weak point. He knows the systems better than the people who are running them. He doesn't want to win a wish from Vane. He wants to tear it all down from the inside. To use Vane's own game to destroy Vane's own creation.
+>
+> He's the most dangerous man in the games because he's the only one who truly understands the rules. And he knows exactly how to break them.
+
+---
+
 ## Implementation checklist
 
 - [x] Runtime Riveter `driverRealName` = Silas Croft / `driverName` = Warden

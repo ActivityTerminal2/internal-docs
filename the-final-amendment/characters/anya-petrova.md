@@ -62,11 +62,39 @@ It did not break her. It hardened her. She no longer fights for the resistance�
 
 ---
 
+## Character bio audio (transcript)
+
+Canonical VO for the Jinx / Anya Petrova character dossier. Third-person narrator introducing the driver.
+
+> This one's different. Not a ghost, not a tombstone. This one's a knife. Sharp, fast, and designed for one specific purpose. The name on the birth certificate is Anya Petrova, but nobody's called her that in years. In the underground, she was a legend. To the Bureau, she was a pain in the ass. To the one man who matters now... she's a judgment.
+>
+> Petrova was born into the fight. Her parents were resistance fighters from day one, back when Vane's new world order was just a bad dream. She didn't learn to ride a bike; she learned to drive a beat-up sedan through checkpoint-riddled backroads before her feet could reach the pedals. For the resistance, she was the ultimate courier. Get a package from A to B, through a militarized zone? That was Anya's job. Get a person out of the city? She was your only hope.
+>
+> The government, they couldn't touch her. Every raid, every roadblock, every trap they set, she'd slip through it. Not by luck. By skill. She knew the roads, she knew the patterns, she knew how to be exactly where you weren't looking. The field agents started getting superstitious. They'd say she was a 'jinx,' that their equipment would fail, their intel would go sour. The name stuck, and she wore it like a medal. She was untouchable.
+>
+> Until she wasn't.
+>
+> Every legend has a weakness. Hers was a man named Wesley Weet. He was her mentor in the resistance, the one who taught her everything she knew. The closest thing she had to family after her parents were executed. She trusted him completely. Big mistake.
+>
+> Weet got himself snagged during a supply run. Vane's people... they're good at breaking people. They don't just use fists and blades. They use fear. Turns out Weet had a family stashed away somewhere, off the grid. They dangled their safety in front of him, and he folded like a cheap suit. He gave them Anya. Gave them her next route, her escape plan, the works.
+>
+> The ambush was perfect. She was making a high-speed run, thinking she was in the clear, and then... nothing. Engine dies. Power steering cuts out. Car coasts to a stop right in the middle of a kill zone. Weet had told them how to disable her car remotely. The ultimate betrayal.
+>
+> In prison, they didn't try to break her. They just... reminded her. Every day. 'The jinx ran out.' 'Your mentor sold you out.' 'How does it feel to be so good at your job and still end up here?' They weren't trying to get information. They were just twisting the knife. All they did was forge her into something harder, sharper. She stopped caring about the resistance, about the 'old world.' All that died with Wesley Weet's betrayal.
+>
+> Now, in The Final Amendment, she's got one target. Just one. All the other drivers, all the carnage... that's just collateral. Just a way to get to the final round. She wants to face Weet. He's not in the games, not directly. He's a low-level administrator now, living comfortably on his blood money. But she knows Vane's rules. Win the games, you get one request. Her request won't be for freedom. It'll be for Wesley Weet, delivered to her in a room with a locked door.
+>
+> That car of hers, 'The Ghost'... it's pure Anya. Stripped down, built for speed, nothing else matters. It's not just fast, it's agile. It's the feeling of being untouchable again. Those homing missiles... they're not just weapons. They're a promise. No matter how fast you run, no matter how you hide, she will find you. She will lock on. And she will not miss.
+>
+> She's not fighting for a cause anymore. She's fighting for a single, perfect moment of revenge. And in that arena, with all the world watching, she plans to collect.
+
+---
+
 ## Open design questions
 
-- [ ] Is Wesley Weet alive, imprisoned, a lieutenant, or already dead when the campaign starts?
+- [ ] Is Wesley Weet alive, imprisoned, a lieutenant, or already dead when the campaign starts? (Bio VO: alive as a low-level administrator; winner’s request delivers him to her.)
 - [ ] Does any resistance cell still claim Jinx, or is she burned with them?
-- [ ] Winner’s request: revenge vs freeing prisoners vs exposing Wesley’s deal
+- [ ] Winner’s request: revenge vs freeing prisoners vs exposing Wesley’s deal (Bio VO locks revenge delivery as her stated ask.)
 
 ---
 
